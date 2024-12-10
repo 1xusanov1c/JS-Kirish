@@ -1,5 +1,5 @@
 // "1-masala"
-// let a =  prompt(`Kvadratning tomonini kiriting `);
+// let a = +prompt(`Kvadratning tomonini kiriting `);
 // let P = 4*a;
 
 // document.write(`Perimenti: ${P}`);
@@ -8,7 +8,7 @@
 
 
 // "2-masala"
-// let a = prompt(`Kvadratning tomonini kiriting`);
+// let a = +prompt(`Kvadratning tomonini kiriting`);
 // let S = a*a;
 
 // document.write(`Yuzasi: ${S}`);
@@ -31,7 +31,7 @@
 
 
 // "4-masala"
-// let d = prompt(`Aylananing diametrni kiriting! `);
+// let d = +prompt(`Aylananing diametrni kiriting! `);
 // const Pi = Math.PI ;
 // let L = Pi * d;
 
@@ -41,7 +41,7 @@
 
 
 // "5-masala"
-// let a = prompt(`Kubning yon tomonining kiriting!`);
+// let a = +prompt(`Kubning yon tomonining kiriting!`);
 // let V = a * a * a;
 // let S = 6 * a * a;
 
@@ -67,7 +67,7 @@
 
 
 // "7-masala"
-// let R = prompt(`Doiraning radiusini kiriting!`);
+// let R = +prompt(`Doiraning radiusini kiriting!`);
 // let Pi = Math.PI
 // let L = 2 * Pi * R ;
 // let S = Pi * R*R;
@@ -79,8 +79,8 @@
 
 
 // "8-masala"
-// let a = prompt("a sonini kiriting!");
-// let b = prompt("b sonini kiriting!");
+// let a = +prompt("a sonini kiriting!");
+// let b = +prompt("b sonini kiriting!");
 
 // let A = (a + b) / 2;
 
@@ -91,8 +91,8 @@
 
 
 // "9-masala"
-// let a = prompt("a sonini kiriting:");
-// let b = prompt("a sonini kiriting:");
+// let a = +prompt("a sonini kiriting:");
+// let b = +prompt("a sonini kiriting:");
 
 // let G = Math.sqrt(a*b);
 
